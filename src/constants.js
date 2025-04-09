@@ -9,7 +9,7 @@ export const REGIONS = Object.freeze({
 export const TRANSPORT_MODES = Object.freeze({
   truck: "Truck",
   ship: "Ship",
-  AIR: "Air",
+  air: "Air",
 });
 
 // km
