@@ -47,7 +47,7 @@ export const DISTANCE_MATRIX = Object.freeze({
     na: 15000,
     sa: 16000,
     cn: 8000,
-    in: 2000,
+    in: 1500,
   },
 });
 
