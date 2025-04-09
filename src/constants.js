@@ -53,14 +53,14 @@ export const DISTANCE_MATRIX = Object.freeze({
 
 // kg CO2e/tkm
 export const TRANSPORT_EMISSIONS = {
-  truck: 0.218,
-  ship: 0.037,
-  air: 1.370,
+  truck: 0.2183,
+  ship: 0.03668,
+  air: 1.36967,
 };
 
 // kg CO2e/tkm
 export const PRODUCTION_EMISSIONS = {
   paper: 0.971,
-  print: 0.336,
-  eifu: 0.000193,
+  print: 0.33592,
+  eifu: 0.00019266,
 };
